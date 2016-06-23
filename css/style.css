@@ -64,6 +64,7 @@ body {
   width: auto;
   margin: auto;
   overflow: auto;
+  padding: 1em 1em;
 }
 
 header {
