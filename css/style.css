@@ -49,7 +49,7 @@ Developer @GA in NYC
 
 body {
      color: #000;
-     font-size: 12px;
+     font-size: 62.5%;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
 }
@@ -69,9 +69,16 @@ body {
 
 header {
 
+  background-color: #033048;
+  color: white;
+  height: 20%;
+  overflow: auto;
+
 }
 
 h1 {
+
+  float: left;
 
 }
 
@@ -81,6 +88,24 @@ h2 {
 
 h3 {
 
+}
+
+nav {
+  
+  color: #f9e42e;
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  text-align: right;
+  padding: 0 10px 10px 0;
+  float: right;
+
+
+}
+
+img {
+
+  width: 100%;
 }
  
 .readmore {
