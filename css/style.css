@@ -88,8 +88,23 @@ h3 {
   text-align: right;
 }
 
-footer {
+.cta {
+  
+  background-color: #f9e42e;
+}
 
+button {
+  display: block;
+  text-align: center;
+  width: 20%;
+  margin: 0 auto;
+  background-color: #033048;
+  color: white;
+  
+}
+
+footer {
+  
 }
 
 /******************************************
