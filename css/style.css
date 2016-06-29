@@ -73,13 +73,18 @@ header {
   color: white;
   height: 20%;
   overflow: auto;
+    
 
 }
 
 h1 {
 
   float: left;
-
+  padding: 1em 0 1em 1em;
+  margin: 0 auto;
+  font-size: 2.4em;
+  font-family: 'Open Sans', sans-serif;
+  
 }
 
 h2 {
@@ -95,15 +100,16 @@ nav {
   color: #f9e42e;
   margin: 0 auto;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em;
-  text-align: right;
-  padding: 0 10px 10px 0;
+  font-size: 1.5em;
+  padding: 1em 1em 1em 0;
   float: right;
+  margin: 0 auto;
+
 
 
 }
 
-img {
+.blogimages {
 
   width: 100%;
 }
@@ -116,6 +122,7 @@ img {
 .cta {
   
   background-color: #f9e42e;
+
 }
 
 button {
@@ -128,7 +135,14 @@ button {
   
 }
 
+.socialicons {
+  height: 20px;
+  width: 20px;
+
+}
+
 footer {
+
   
 }
 
